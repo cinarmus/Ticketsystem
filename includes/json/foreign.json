@@ -1,0 +1,31 @@
+{
+	"stereotype": "relation",
+	"display": "true",
+	"validation": "string",
+	"renderAs": {
+		"detail": {
+			"control": "text",
+			"disabled": false,
+			"readonly": false,
+			"display": true
+		},
+		"list": {
+			"control": "text",
+			"disabled": false,
+			"readonly": false,
+			"display": true
+		},
+		"edit": {
+			"control": "textbox",
+			"disabled": false,
+			"readonly": false,
+			"display": true
+		},
+		"new": {
+			"control": "textbox",
+			"disabled": false,
+			"readonly": false,
+			"display": true
+		}
+	}
+}

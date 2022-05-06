@@ -1,0 +1,1549 @@
+{
+	"Administration": {
+		"panelElement": {
+			"group": {
+				"general": {
+					"columns": "2",
+					"heading": "Herzlich Willkommen im Administrator-Bereich!",
+					"text": "Hier können Sie Speicherstände erstellen und laden sowie Enumerationen verwalten, erweitern und löschen.",
+					"image": "",
+					"display": "true",
+					"label": "Admin Menü",
+					"link": "adminmenu",
+					"linkFunction": "dashboard",
+					"icon": "gear",
+					"renderAs": "miniButton",
+					"theme": ""
+				},
+				"G0": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G1": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G2": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G3": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G4": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				}
+			}
+		}
+	},
+	"Ticketmanagement": {
+		"panelElement": {
+			"group": {
+				"general": {
+					"columns": "2",
+					"heading": "Herzlich Willkommen im Ticketmanagement-Dashboard!",
+					"text": "Hier können Sie Tickets erstellen, verwalten und einsehen!",
+					"image": "",
+					"display": "true",
+					"label": "Ticketmanagement",
+					"link": "ticketmanagement",
+					"linkFunction": "dashboard",
+					"icon": "plus",
+					"renderAs": "miniButton",
+					"theme": ""
+				},
+				"G0": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G1": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G2": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G3": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G4": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				}
+			}
+		}
+	},
+	"Ticket erstellen": {
+		"dashboardElement": {
+			"group": {
+				"general": {
+					"columns": "2",
+					"heading": "Hier können Sie Tickets erstellen und anlegen!",
+					"text": "Tickets erstellen",
+					"image": "img_432040.png",
+					"display": "true",
+					"description": "Hier können Tickets erstellt werden.",
+					"label": "Tickets erstellen",
+					"link": "ticket_erstellen",
+					"leadingItem": "false",
+					"menu": "ticketmanagement",
+					"linkFunction": "dashboard",
+					"class": ""
+				},
+				"G0": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G1": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G2": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G3": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G4": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "true",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				}
+			}
+		}
+	},
+	"Ticket(s) verwalten": {
+		"dashboardElement": {
+			"group": {
+				"general": {
+					"columns": "2",
+					"heading": "Hier können Sie Tickets verwalten.",
+					"text": "Tickets verwalten",
+					"image": "ticket-management-system.svg",
+					"display": "true",
+					"description": "Hier können Tickets verwaltet werden.",
+					"label": "Tickets verwalten",
+					"link": "ticketverwaltung",
+					"leadingItem": "false",
+					"menu": "ticketmanagement",
+					"linkFunction": "dashboard",
+					"class": ""
+				},
+				"G0": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G1": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G2": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G3": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G4": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "true",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				}
+			}
+		}
+	},
+	"UserMenu": {
+		"headerElement": {
+			"group": {
+				"general": {
+					"columns": "2",
+					"heading": "Herzlich Wilkommen im User-Menü Dashboard!",
+					"text": "Hier können Sie alle Informationen zu Ihrem Profil und den dazugehörigen Daten bearbeiten.",
+					"image": "",
+					"display": "true",
+					"label": "User-Menü",
+					"link": "usermenu",
+					"linkFunction": "dashboard",
+					"icon": "user",
+					"renderAs": "headerButton",
+					"theme": ""
+				},
+				"G0": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G1": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G2": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G3": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G4": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				}
+			}
+		}
+	},
+	"MeinProfil": {
+		"dashboardElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"description": "Hier können Sie alle Informationen zu Ihrem Profil verwalten.",
+					"image": "meinprofil.jpg",
+					"label": "Mein Profil",
+					"link": "user_edit",
+					"leadingItem": "true",
+					"menu": "usermenu",
+					"linkFunction": "task",
+					"class": ""
+				},
+				"G0": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G1": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G2": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G3": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G4": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				}
+			}
+		}
+	},
+	"Enumerationen": {
+		"dashboardElement": {
+			"group": {
+				"general": {
+					"columns": "2",
+					"heading": "Herzlich Willkommen im Enumerations-Menü!",
+					"text": "Enumerationen löschen, bearbeiten und erweitern.",
+					"image": "enumeration.png",
+					"display": "true",
+					"description": "Hier können Enumerationen bearbeitet werden.",
+					"label": "Herzlich Willkommen im Enumerations-Dashboard!",
+					"link": "enumerationmenu",
+					"leadingItem": "false",
+					"menu": "adminmenu",
+					"linkFunction": "dashboard",
+					"class": ""
+				},
+				"G0": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G1": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G2": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G3": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G4": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "true",
+					"description": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				}
+			}
+		}
+	},
+	"Speicherstände": {
+		"dashboardElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"description": "Hier können neue Speicherstände angelegt, oder alte Speicherstände geladen werden.",
+					"image": "speicherstaende.png",
+					"label": "Speicherstände",
+					"link": "speicherstande",
+					"leadingItem": "false",
+					"menu": "adminmenu",
+					"linkFunction": "task",
+					"class": ""
+				},
+				"G0": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G1": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G2": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G3": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G4": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				}
+			}
+		}
+	},
+	"Home": {
+		"panelElement": {
+			"group": {
+				"general": {
+					"columns": "2",
+					"heading": "Wingmazon Labortermin 1",
+					"text": "Verwalten von Büchern",
+					"image": "wingmazon.jpg",
+					"display": "true",
+					"label": "Home",
+					"link": "home",
+					"linkFunction": "task",
+					"icon": "home",
+					"renderAs": "miniButton",
+					"theme": ""
+				},
+				"G0": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G1": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G2": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G3": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G4": {
+					"columns": "",
+					"heading": "",
+					"text": "",
+					"image": "",
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				}
+			}
+		}
+	},
+	"Login": {
+		"headerElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"label": "Login",
+					"link": "login",
+					"linkFunction": "task",
+					"icon": "sign-in",
+					"renderAs": "headerIcon",
+					"theme": ""
+				},
+				"G0": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G1": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G2": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G3": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G4": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				}
+			}
+		}
+	},
+	"Logout": {
+		"headerElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"label": "Logout",
+					"link": "logout",
+					"linkFunction": "task",
+					"icon": "sign-out",
+					"renderAs": "headerIcon",
+					"theme": ""
+				},
+				"G0": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G1": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G2": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G3": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G4": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				}
+			}
+		}
+	},
+	"Favoriten": {
+		"dashboardElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"description": "",
+					"image": "favoriten.png",
+					"label": "Meine Favoriten",
+					"link": "favoriten_overview",
+					"leadingItem": "true",
+					"menu": "usermenu",
+					"linkFunction": "task",
+					"class": ""
+				},
+				"G0": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G1": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G2": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G3": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G4": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				}
+			}
+		}
+	},
+	"TBKoordinator": {
+		"panelElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"label": "TBKoordinator",
+					"link": "TBKoordinator",
+					"linkFunction": "task",
+					"icon": "bars",
+					"renderAs": "miniButton",
+					"theme": ""
+				},
+				"G0": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G1": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G2": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G3": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G4": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				}
+			}
+		}
+	},
+	"TBMitarbeiter": {
+		"panelElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"label": "TBMitarbeiter",
+					"link": "TBMitarbeiter",
+					"linkFunction": "task",
+					"icon": "bars",
+					"renderAs": "miniButton",
+					"theme": ""
+				},
+				"G0": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G1": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G2": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G3": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G4": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				}
+			}
+		}
+	},
+	"HSMitarbeiter": {
+		"panelElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"label": "HSMitarbeiter",
+					"link": "HSMitarbeiter",
+					"linkFunction": "task",
+					"icon": "bars",
+					"renderAs": "miniButton",
+					"theme": ""
+				},
+				"G0": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G1": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G2": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G3": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G4": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				}
+			}
+		}
+	},
+	"Ticket": {
+		"panelElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"label": "Ticket",
+					"link": "Ticket",
+					"linkFunction": "task",
+					"icon": "bars",
+					"renderAs": "miniButton",
+					"theme": ""
+				},
+				"G0": {
+					"display": "false",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G1": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G2": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G3": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				},
+				"G4": {
+					"display": "true",
+					"label": "",
+					"link": "",
+					"linkFunction": "",
+					"icon": "",
+					"renderAs": "",
+					"theme": ""
+				}
+			}
+		}
+	},
+	"GruppeT": {
+		"dashboardElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"description": "",
+					"image": "placeholder.png",
+					"label": "GruppeT",
+					"link": "GruppeT",
+					"leadingItem": "false",
+					"menu": "enumerationmenu",
+					"linkFunction": "task",
+					"class": "",
+					"icon": "bullets"
+				},
+				"G0": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G1": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G2": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G3": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G4": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				}
+			}
+		}
+	},
+	"AbteilungT": {
+		"dashboardElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"description": "",
+					"image": "placeholder.png",
+					"label": "AbteilungT",
+					"link": "AbteilungT",
+					"leadingItem": "false",
+					"menu": "enumerationmenu",
+					"linkFunction": "task",
+					"class": "",
+					"icon": "bullets"
+				},
+				"G0": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G1": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G2": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G3": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G4": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				}
+			}
+		}
+	},
+	"StatusT": {
+		"dashboardElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"description": "",
+					"image": "placeholder.png",
+					"label": "StatusT",
+					"link": "StatusT",
+					"leadingItem": "false",
+					"menu": "enumerationmenu",
+					"linkFunction": "task",
+					"class": "",
+					"icon": "bullets"
+				},
+				"G0": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G1": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G2": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G3": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G4": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				}
+			}
+		}
+	},
+	"KategorieT": {
+		"dashboardElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"description": "",
+					"image": "placeholder.png",
+					"label": "KategorieT",
+					"link": "KategorieT",
+					"leadingItem": "false",
+					"menu": "enumerationmenu",
+					"linkFunction": "task",
+					"class": "",
+					"icon": "bullets"
+				},
+				"G0": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G1": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G2": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G3": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G4": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				}
+			}
+		}
+	},
+	"PrioritätT": {
+		"dashboardElement": {
+			"group": {
+				"general": {
+					"display": "true",
+					"description": "",
+					"image": "placeholder.png",
+					"label": "PrioritätT",
+					"link": "PrioritätT",
+					"leadingItem": "false",
+					"menu": "enumerationmenu",
+					"linkFunction": "task",
+					"class": "",
+					"icon": "bullets"
+				},
+				"G0": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G1": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G2": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G3": {
+					"display": "false",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				},
+				"G4": {
+					"display": "true",
+					"description": "",
+					"image": "",
+					"label": "",
+					"link": "",
+					"leadingItem": "",
+					"menu": "",
+					"linkFunction": "",
+					"class": ""
+				}
+			}
+		}
+	}
+}

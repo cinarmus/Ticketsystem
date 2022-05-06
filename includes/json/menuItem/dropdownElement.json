@@ -1,0 +1,48 @@
+{
+	"dropdownElement": {
+		"group": {
+			"general": {
+				"icon": "carat-r",
+				"label": "@class",
+				"link": "@class",
+				"menu": "usermenu",
+				"linkFunction": "task"
+			},
+			"G0": {
+				"icon": "",
+				"label": "",
+				"link": "",
+				"menu": "",
+				"linkFunction": ""
+			},
+			"G1": {
+				"icon": "",
+				"label": "",
+				"link": "",
+				"menu": "",
+				"linkFunction": ""
+			},
+			"G2": {
+				"icon": "",
+				"label": "",
+				"link": "",
+				"menu": "",
+				"linkFunction": ""
+			},
+			"G3": {
+				"icon": "",
+				"label": "",
+				"link": "",
+				"menu": "",
+				"linkFunction": ""
+			},
+			"G4": {
+				"icon": "",
+				"label": "",
+				"link": "",
+				"menu": "",
+				"linkFunction": ""
+			}
+		}
+	}
+}

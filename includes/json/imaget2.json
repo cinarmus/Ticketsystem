@@ -1,0 +1,71 @@
+{
+	"path": {
+		"type": "string",
+		"stereotyp": "primitive",
+		"label": "Bild",
+		"renderAs": {
+			"detail": {
+				"control": "image",
+				"class": "picture_normal"
+			},
+			"list": {
+				"control": "image",
+				"class": "picture_thumb"
+			},
+			"new": {
+				"control": "none",
+				"class": ""
+			},
+			"edit": {
+				"control": "image",
+				"class": "picture_normal"
+			}
+		}
+	},
+	"title": {
+		"type": "string",
+		"stereotyp": "primitive",
+		"label": "Titel",
+		"renderAs": {
+			"detail": {
+				"control": "image",
+				"class": "picture_normal"
+			},
+			"list": {
+				"control": "none",
+				"class": "picture_thumb"
+			},
+			"new": {
+				"control": "none",
+				"class": ""
+			},
+			"edit": {
+				"control": "text",
+				"class": ""
+			}
+		}
+	},
+	"description": {
+		"type": "string",
+		"stereotyp": "primitive",
+		"label": "Beschreibung",
+		"renderAs": {
+			"detail": {
+				"control": "textbox",
+				"class": ""
+			},
+			"list": {
+				"control": "none",
+				"class": ""
+			},
+			"new": {
+				"control": "textarea",
+				"class": ""
+			},
+			"edit": {
+				"control": "textarea",
+				"class": ""
+			}
+		}
+	}
+}

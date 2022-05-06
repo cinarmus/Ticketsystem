@@ -1,0 +1,19 @@
+{
+	"title": {
+		"type": "string",
+		"null": true
+	},
+	"description": {
+		"type": "string",
+		"null": true,
+		"format": "d.m.Y H:i:s"
+	},
+	"path": {
+		"type": "string",
+		"null": true
+	},
+	"org": {
+		"type": "string",
+		"null": true
+	}
+}

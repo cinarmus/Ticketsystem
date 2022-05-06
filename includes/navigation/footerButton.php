@@ -1,0 +1,1 @@
+<li><a href="<?=$url?>" data-icon="<?=$dataIcon?>" data-theme="<?=$theme?>"><?=$label?></a></li>

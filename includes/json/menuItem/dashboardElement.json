@@ -1,0 +1,66 @@
+{
+	"dashboardElement": {
+		"group": {
+			"general": {
+				"description": "",
+				"image": "placeholder.png",
+				"label": "@class",
+				"link": "@class",
+				"leadingItem": "false",
+				"menu": "usermenu",
+				"linkFunction": "task",
+				"class": ""
+			},
+			"G0": {
+				"description": "",
+				"image": "",
+				"label": "",
+				"link": "",
+				"leadingItem": "",
+				"menu": "",
+				"linkFunction": "",
+				"class": ""
+			},
+			"G1": {
+				"description": "",
+				"image": "",
+				"label": "",
+				"link": "",
+				"leadingItem": "",
+				"menu": "",
+				"linkFunction": "",
+				"class": ""
+			},
+			"G2": {
+				"description": "",
+				"image": "",
+				"label": "",
+				"link": "",
+				"leadingItem": "",
+				"menu": "",
+				"linkFunction": "",
+				"class": ""
+			},
+			"G3": {
+				"description": "",
+				"image": "",
+				"label": "",
+				"link": "",
+				"leadingItem": "",
+				"menu": "",
+				"linkFunction": "",
+				"class": ""
+			},
+			"G4": {
+				"description": "",
+				"image": "",
+				"label": "",
+				"link": "",
+				"leadingItem": "",
+				"menu": "",
+				"linkFunction": "",
+				"class": ""
+			}
+		}
+	}
+}

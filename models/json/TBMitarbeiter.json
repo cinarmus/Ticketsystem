@@ -1,0 +1,6 @@
+{
+"Abteilung":{"type":"AbteilungT","stereotype":"enumeration","classAlias":"AbteilungT0","label":"Abteilung"},
+"Name":{"type":"NameT","stereotype":"structure","group":"true","label":"NameT"},
+"Adresse":{"type":"AdresseT","stereotype":"structure","group":"true","label":"AdresseT"},
+"_User_uid":{"type":"foreign","stereotype":"relation","class":"User","classAlias":"User","renderAs": {"new": {"control": "hidden"},"edit": {"control": "hidden"},"list": {"control": "hidden"},"detail": {"control": "hidden"}}}
+}

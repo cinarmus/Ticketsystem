@@ -1,0 +1,146 @@
+{
+	"Passwort": {
+		"type": "string",
+		"stereotype": "primitive",
+		"label": "Passwort",
+		"renderAs": {
+			"detail": {
+				"disabled": "true",
+				"readonly": "false",
+				"display": "true",
+				"control": "textbox",
+				"class": "sysstring",
+				"minlength": "4",
+				"datarole": "",
+				"placeholder": "",
+				"maxlength": "12"
+			},
+			"list": {
+				"class": "sysstring",
+				"control": "general",
+				"disabled": "true",
+				"datarole": "",
+				"placeholder": "",
+				"maxlength": "12",
+				"readonly": "false",
+				"display": "true"
+			},
+			"edit": {
+				"class": "sysstring",
+				"control": "password",
+				"disabled": "true",
+				"datarole": "",
+				"placeholder": "Passwort",
+				"maxlength": "12",
+				"readonly": "false",
+				"display": "true"
+			},
+			"new": {
+				"display": "true",
+				"disabled": "false",
+				"readonly": "false",
+				"control": "password",
+				"class": "userforminput",
+				"minlength": "4",
+				"datarole": "none",
+				"placeholder": "Passwort",
+				"maxlength": "12"
+			},
+			"login": {
+				"disabled": "false",
+				"readonly": "false",
+				"display": "true",
+				"control": "password",
+				"minlength": "4",
+				"datarole": "none",
+				"placeholder": "Passwort",
+				"maxlength": "12",
+				"class": "userforminput"
+			}
+		}
+	},
+	"Gruppe": {
+		"type": "GruppeT",
+		"stereotype": "enumeration",
+		"classAlias": "GruppeT0",
+		"label": "Gruppe",
+		"renderAs": {
+			"detail": {
+				"display": "false",
+				"class": "",
+				"datarole": "",
+				"control": "menu"
+			},
+			"edit": {
+				"class": "",
+				"datarole": "",
+				"control": "menu",
+				"display": "false"
+			},
+			"list": {
+				"display": "false",
+				"class": "",
+				"datarole": "",
+				"control": "menu"
+			},
+			"new": {
+				"display": "true",
+				"class": "userforminput",
+				"datarole": "none",
+				"control": "menu"
+			}
+		}
+	},
+	"Kennung": {
+		"type": "string",
+		"stereotype": "primitive",
+		"label": "Kennung",
+		"renderAs": {
+			"edit": {
+				"display": "true",
+				"control": "text",
+				"maxlength": "50",
+				"minlength": "4",
+				"datarole": "",
+				"placeholder": "",
+				"class": ""
+			},
+			"login": {
+				"display": "true",
+				"control": "textbox",
+				"maxlength": "50",
+				"datarole": "none",
+				"placeholder": "Kennung",
+				"class": "userforminput"
+			},
+			"new": {
+				"display": "true",
+				"required": "true",
+				"datarole": "none",
+				"placeholder": "Kennung",
+				"class": "userforminput",
+				"maxlength": "50",
+				"minlength": "4"
+			}
+		}
+	},
+	"roleid": {
+		"type": "foreign",
+		"stereotype": "primitive",
+		"renderAs": {
+			"detail": {
+				"display": "false"
+			},
+			"edit": {
+				"display": "false"
+			},
+			"list": {
+				"display": "false"
+			},
+			"new": {
+				"display": "false"
+			}
+		},
+		"label": "Gruppe"
+	}
+}

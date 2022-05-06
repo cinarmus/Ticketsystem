@@ -1,0 +1,17 @@
+{
+	"id": {
+		"type": "primary",
+		"auto": "true",
+		"null": false
+	},
+	"m_ts": {
+		"type": "timestamp",
+		"null": true,
+		"format": "d.m.Y H:i:s"
+	},
+	"c_ts": {
+		"type": "timestamp",
+		"null": true,
+		"format": "d.m.Y H:i:s"
+	}
+}

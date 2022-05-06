@@ -1,0 +1,32 @@
+{
+	"renderAs": {
+		"detail": {
+			"readonly": true,
+			"control": "text",
+			"class": "sysstring",
+			"disabled": true,
+			"maxlength": "50"
+		},
+		"edit": {
+			"readonly": false,
+			"control": "textbox",
+			"class": "sysstring",
+			"disabled": false,
+			"maxlength": "50"
+		},
+		"list": {
+			"readonly": true,
+			"control": "text",
+			"class": "sysstring",
+			"disabled": false,
+			"maxlength": "50"
+		},
+		"new": {
+			"readonly": false,
+			"control": "textbox",
+			"class": "sysstring",
+			"disabled": false,
+			"maxlength": "50"
+		}
+	}
+}

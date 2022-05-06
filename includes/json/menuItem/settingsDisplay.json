@@ -1,0 +1,22 @@
+{
+	"group": {
+		"general": {
+			"display": "true"
+		},
+		"G0": {
+			"display": "false"
+		},
+		"G1": {
+			"display": "true"
+		},
+		"G2": {
+			"display": "true"
+		},
+		"G3": {
+			"display": "true"
+		},
+		"G4": {
+			"display": "true"
+		}
+	}
+}

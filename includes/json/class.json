@@ -1,0 +1,103 @@
+{
+	"id": {
+		"type": "primary",
+		"stereotype": "primitive",
+		"renderAs": {
+			"detail": {
+				"control": "textbox",
+				"display": false
+			},
+			"list": {
+				"control": "text",
+				"display": false
+			},
+			"edit": {
+				"control": "hidden",
+				"display": true
+			},
+			"new": {
+				"control": "textbox",
+				"display": false
+			}
+		}
+	},
+	"c_ts": {
+		"type": "timestamp",
+		"label": "erstellt",
+		"format": "d.m.Y H:i:s",
+		"stereotype": "primitive",
+		"renderAs": {
+			"detail": {
+				"display": "true",
+				"disabled": true,
+				"control": "text",
+				"class": "sysDate"
+			},
+			"list": {
+				"dataPriority": 1,
+				"display": "",
+				"control": "text",
+				"class": "sysDate"
+			},
+			"edit": {
+				"display": "false",
+				"control": "textbox",
+				"class": "sysDate"
+			},
+			"new": {
+				"display": "false",
+				"control": "textbox",
+				"class": "sysDate"
+			}
+		}
+	},
+	"m_ts": {
+		"label": "geändert",
+		"type": "timestamp",
+		"format": "d.m.Y H:i:s",
+		"renderAs": {
+			"detail": {
+				"display": "",
+				"disabled": "true",
+				"control": "text",
+				"class": "sysDate"
+			},
+			"list": {
+				"dataPriority": 1,
+				"display": "",
+				"control": "text",
+				"class": "sysDate"
+			},
+			"edit": {
+				"display": "false",
+				"control": "textbox",
+				"class": "sysDate"
+			},
+			"new": {
+				"display": false,
+				"control": "textbox",
+				"class": "sysDate"
+			}
+		},
+		"stereotype": "primitive"
+	},
+	"identifier": {
+		"label": "@class",
+		"type": "string",
+		"renderAs": {
+			"detail": {
+				"display": true
+			},
+			"list": {
+				"display": true
+			},
+			"edit": {
+				"display": "true"
+			},
+			"new": {
+				"display": true
+			}
+		},
+		"stereotype": "primitive"
+	}
+}

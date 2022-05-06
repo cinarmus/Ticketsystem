@@ -1,0 +1,25 @@
+{
+	"renderAs": {
+		"new": {
+			"control": "fileupload",
+			"disabled": "false",
+			"display": "true"
+		},
+		"edit": {
+			"control": "fileupload",
+			"disabled": "false",
+			"display": "true"
+		},
+		"detail": {
+			"control": "fileupload",
+			"disabled": "false",
+			"display": "false"
+		},
+		"list": {
+			"control": "fileupload",
+			"disabled": "false",
+			"display": "false"
+		}
+	},
+	"ignoreDB": true
+}

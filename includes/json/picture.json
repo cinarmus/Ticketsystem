@@ -1,0 +1,28 @@
+{
+	"renderAs": {
+		"new": {
+			"control": "fileupload",
+			"disabled": false,
+			"display": true
+		},
+		"edit": {
+			"control": "filepicture",
+			"disabled": false,
+			"class": "picture_normal",
+			"display": true,
+			"mode": "form"
+		},
+		"detail": {
+			"control": "picture",
+			"class": "picture_normal",
+			"display": "",
+			"mode": "form"
+		},
+		"list": {
+			"control": "picture",
+			"class": "picture_thumb",
+			"display": "",
+			"mode": "table"
+		}
+	}
+}

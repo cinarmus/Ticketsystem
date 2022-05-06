@@ -1,0 +1,6 @@
+{
+"task":{"type":"string","stereotype":"primitive","label":"task"},
+  "task_label":{"type":"string","stereotype":"primitive","label":"Meine Favoriten"},
+  "datensatz_id":{"type":"integer","stereotype":"primitive","label":"datensatz_id"},
+"User_uid":{"type":"integer","stereotype":"primitive","label":"User_uid"}
+}

@@ -1,0 +1,40 @@
+{
+	"group": {
+		"general": {
+			"columns": 2,
+			"heading": "@class",
+			"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
+			"image": ""
+		},
+		"G0": {
+			"columns": "",
+			"heading": "",
+			"text": "",
+			"image": ""
+		},
+		"G1": {
+			"columns": "",
+			"heading": "",
+			"text": "",
+			"image": ""
+		},
+		"G2": {
+			"columns": "",
+			"heading": "",
+			"text": "",
+			"image": ""
+		},
+		"G3": {
+			"columns": "",
+			"heading": "",
+			"text": "",
+			"image": ""
+		},
+		"G4": {
+			"columns": "",
+			"heading": "",
+			"text": "",
+			"image": ""
+		}
+	}
+}

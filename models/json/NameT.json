@@ -1,0 +1,4 @@
+{
+"Vorname":{"type":"string","stereotype":"primitive","label":"Vorname"},
+"Nachname":{"type":"string","stereotype":"primitive","label":"Nachname"}
+}

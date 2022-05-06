@@ -1,0 +1,34 @@
+{
+	"type": "string",
+	"label": "@attribute",
+	"stereotype": "primitive",
+	"display": "true",
+	"validation": "string",
+	"renderAs": {
+		"detail": {
+			"disabled": false,
+			"readonly": true,
+			"display": true,
+			"mode": "general"
+		},
+		"list": {
+			"dataPriority": 2,
+			"disabled": false,
+			"readonly": false,
+			"display": true,
+			"mode": "table"
+		},
+		"edit": {
+			"disabled": false,
+			"readonly": false,
+			"display": true,
+			"mode": "general"
+		},
+		"new": {
+			"disabled": false,
+			"readonly": false,
+			"display": true,
+			"mode": "general"
+		}
+	}
+}

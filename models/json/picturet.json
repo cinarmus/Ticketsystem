@@ -1,0 +1,85 @@
+{
+	"upload": {
+		"type": "file",
+		"groupIn": "true",
+		"stereotype": "primitive"
+	},
+	"path": {
+		"type": "string",
+		"stereotype": "primitive",
+		"label": "Bild",
+		"renderAs": {
+			"detail": {
+				"control": "picture",
+				"class": "picture_normal",
+				"display": ""
+			},
+			"list": {
+				"control": "picture",
+				"class": "picture_thumb",
+				"display": ""
+			},
+			"new": {
+				"control": "none",
+				"class": "",
+				"display": false
+			},
+			"edit": {
+				"control": "picture",
+				"class": "picture_normal",
+				"display": ""
+			}
+		}
+	},
+	"title": {
+		"type": "string",
+		"stereotype": "primitive",
+		"label": "Titel",
+		"renderAs": {
+			"detail": {
+				"display": "true",
+				"control": "text"
+			},
+			"list": {
+				"display": "false",
+				"control": "text"
+			},
+			"new": {
+				"display": true,
+				"control": "textbox"
+			},
+			"edit": {
+				"display": true,
+				"control": "textbox"
+			}
+		}
+	},
+	"description": {
+		"type": "string",
+		"stereotype": "primitive",
+		"groupOut": "true",
+		"label": "Beschreibung",
+		"renderAs": {
+			"detail": {
+				"control": "text",
+				"class": "",
+				"display": "true"
+			},
+			"list": {
+				"control": "none",
+				"class": "",
+				"display": "false"
+			},
+			"new": {
+				"control": "textarea",
+				"class": "",
+				"display": true
+			},
+			"edit": {
+				"control": "textarea",
+				"class": "",
+				"display": true
+			}
+		}
+	}
+}

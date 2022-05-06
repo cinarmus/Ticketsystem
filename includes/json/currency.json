@@ -1,0 +1,34 @@
+{
+	"validation": "currency",
+	"textformat": "currency",
+	"renderAs": {
+		"detail": {
+			"disabled": true,
+			"readonly": true,
+			"control": "text",
+			"class": "sysfloat",
+			"format": "currency"
+		},
+		"edit": {
+			"disabled": false,
+			"control": "currencyfield",
+			"readonly": false,
+			"class": "sysfloat",
+			"format": "currency"
+		},
+		"list": {
+			"disabled": false,
+			"readonly": true,
+			"class": "sysfloat",
+			"format": "currency",
+			"control": "text"
+		},
+		"new": {
+			"disabled": false,
+			"readonly": false,
+			"control": "currencyfield",
+			"class": "sysfloat",
+			"format": "currency"
+		}
+	}
+}

@@ -1,0 +1,4 @@
+{
+"path":{"type":"string","stereotype":"primitive","groupIn":"true","label":"path"},
+"title":{"type":"string","stereotype":"primitive","groupOut":"true","label":"title"}
+}

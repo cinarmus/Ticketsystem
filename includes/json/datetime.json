@@ -1,0 +1,29 @@
+{
+	"textformat": "d.m.Y H:i",
+	"renderAs": {
+		"detail": {
+			"readonly": true,
+			"control": "text",
+			"disabled": true,
+			"class": "sysdate"
+		},
+		"edit": {
+			"readonly": false,
+			"disabled": false,
+			"control": "datetime",
+			"class": "sysdate"
+		},
+		"list": {
+			"readonly": true,
+			"disabled": false,
+			"control": "text",
+			"class": "sysdate"
+		},
+		"new": {
+			"readonly": false,
+			"disabled": false,
+			"control": "datetime",
+			"class": "sysdate"
+		}
+	}
+}

@@ -1,0 +1,5 @@
+{
+"Straße":{"type":"string","stereotype":"primitive","label":"Straße"},
+"PLZ":{"type":"integer","stereotype":"primitive","label":"PLZ"},
+"Ort":{"type":"string","stereotype":"primitive","label":"Ort"}
+}

@@ -1,0 +1,1 @@
+<a href="<?=$url?>" class="ui-btn ui-shadow ui-corner-all ui-icon-<?=$dataIcon?> ui-btn-icon-notext"><?=$label?></a>

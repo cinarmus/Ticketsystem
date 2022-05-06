@@ -1,0 +1,11 @@
+{
+"datum":{"type":"date","stereotype":"primitive","label":"datum"},
+"Bemerkung":{"type":"string","stereotype":"primitive","label":"Bemerkung"},
+"Frist":{"type":"date","stereotype":"primitive","label":"Frist"},
+"Status":{"type":"StatusT","stereotype":"enumeration","classAlias":"StatusT0","label":"Status"},
+"Kategorie":{"type":"KategorieT","stereotype":"enumeration","classAlias":"KategorieT1","label":"Kategorie"},
+"Priorität":{"type":"PrioritätT","stereotype":"enumeration","classAlias":"PrioritätT2","label":"Priorität"},
+"Anhang":{"type":"string","stereotype":"primitive","label":"Anhang"},
+"_TBKoordinator":{"type":"foreign","stereotype":"relation","class":"TBKoordinator","classAlias":"TBKoordinator","renderAs": {"edit": {"required": "true"},"new": {"required": "true"}}, "join": "INNER"},
+"_TBMitarbeiter":{"type":"foreign","stereotype":"relation","class":"TBMitarbeiter","classAlias":"TBMitarbeiter","renderAs": {"edit": {"required": "true"},"new": {"required": "true"}}, "join": "INNER"}
+}

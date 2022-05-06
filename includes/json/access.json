@@ -1,0 +1,80 @@
+{
+	"created_id": {
+		"type": "foreign",
+		"stereotype": "primitive",
+		"renderAs": {
+			"detail": {
+				"control": "textbox",
+				"disabled": true,
+				"display": false
+			},
+			"list": {
+				"control": "text",
+				"disabled": false,
+				"display": false
+			},
+			"edit": {
+				"control": "textbox",
+				"disabled": false,
+				"display": false
+			},
+			"new": {
+				"control": "textbox",
+				"disabled": false,
+				"display": false
+			}
+		}
+	},
+	"modified_id": {
+		"type": "foreign",
+		"stereotype": "primitive",
+		"renderAs": {
+			"detail": {
+				"control": "textbox",
+				"disabled": true,
+				"display": false
+			},
+			"list": {
+				"control": "text",
+				"disabled": false,
+				"display": false
+			},
+			"edit": {
+				"control": "textbox",
+				"disabled": false,
+				"display": false
+			},
+			"new": {
+				"control": "textbox",
+				"disabled": false,
+				"display": false
+			}
+		}
+	},
+	"owner_id": {
+		"type": "foreign",
+		"stereotype": "primitive",
+		"renderAs": {
+			"detail": {
+				"control": "textbox",
+				"disabled": true,
+				"display": false
+			},
+			"list": {
+				"control": "text",
+				"disabled": false,
+				"display": false
+			},
+			"edit": {
+				"control": "textbox",
+				"disabled": false,
+				"display": false
+			},
+			"new": {
+				"control": "textbox",
+				"disabled": false,
+				"display": false
+			}
+		}
+	}
+}

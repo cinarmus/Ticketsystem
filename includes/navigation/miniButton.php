@@ -1,0 +1,1 @@
+<a href="<?=$url?>" data-mini="true" data-role="button" data-theme="<?=$farbe?>" data-icon="<?=$dataIcon?>"  class="<?=$class?>" data-ajax="false" ><?=$label?></a>

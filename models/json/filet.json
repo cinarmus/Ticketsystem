@@ -1,0 +1,54 @@
+{
+	"upload": {
+		"type": "file",
+		"groupIn": "true",
+		"stereotype": "primitive"
+	},
+	"path": {
+		"type": "string",
+		"stereotype": "primitive",
+		"label": "@parent",
+		"renderAs": {
+			"detail": {
+				"control": "link",
+				"display": "true"
+			},
+			"list": {
+				"control": "link",
+				"display": "true"
+			},
+			"new": {
+				"control": "none",
+				"display": "false"
+			},
+			"edit": {
+				"control": "link",
+				"display": "true"
+			}
+		}
+	},
+	"title": {
+		"type": "string",
+		"groupOut": "true",
+		"stereotype": "primitive",
+		"label": "Titel",
+		"renderAs": {
+			"detail": {
+				"display": "false",
+				"control": "text"
+			},
+			"list": {
+				"display": "false",
+				"control": "text"
+			},
+			"new": {
+				"display": "true",
+				"control": "textbox"
+			},
+			"edit": {
+				"display": "false",
+				"control": "textbox"
+			}
+		}
+	}
+}

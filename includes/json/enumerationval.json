@@ -1,0 +1,50 @@
+{
+	"renderAs": {
+		"detail": {
+			"control": "text",
+			"class": "sysstring",
+			"disabled": true,
+			"length": "50",
+			"options": {
+				"key": "id",
+				"literal": "literal",
+				"default": "@attribute",
+				"data": "@attribute"
+			}
+		},
+		"edit": {
+			"options": {
+				"key": "id",
+				"literal": "literal",
+				"default": "@attribute",
+				"data": "@attribute"
+			},
+			"control": "menu",
+			"class": "sysstring",
+			"length": "50"
+		},
+		"list": {
+                        "dataPriority": 2,
+			"options": {
+				"key": "id",
+				"literal": "literal",
+				"default": "@attribute",
+				"data": "@attribute"
+			},
+			"control": "text",
+			"class": "sysstring",
+			"length": "50"
+		},
+		"new": {
+			"control": "menu",
+			"options": {
+				"key": "id",
+				"literal": "literal",
+				"default": "@attribute",
+				"data": "@attribute"
+			},
+			"class": "sysstring",
+			"length": "50"
+		}
+	}
+}

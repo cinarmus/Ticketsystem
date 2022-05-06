@@ -1,0 +1,54 @@
+{
+	"headerElement": {
+		"group": {
+			"general": {
+				"label": "@class",
+				"link": "@class",
+				"linkFunction": "task",
+				"icon": "bars",
+				"renderAs": "headerButton",
+				"theme": ""
+			},
+			"G0": {
+				"label": "",
+				"link": "",
+				"linkFunction": "",
+				"icon": "",
+				"renderAs": "",
+				"theme": ""
+			},
+			"G1": {
+				"label": "",
+				"link": "",
+				"linkFunction": "",
+				"icon": "",
+				"renderAs": "",
+				"theme": ""
+			},
+			"G2": {
+				"label": "",
+				"link": "",
+				"linkFunction": "",
+				"icon": "",
+				"renderAs": "",
+				"theme": ""
+			},
+			"G3": {
+				"label": "",
+				"link": "",
+				"linkFunction": "",
+				"icon": "",
+				"renderAs": "",
+				"theme": ""
+			},
+			"G4": {
+				"label": "",
+				"link": "",
+				"linkFunction": "",
+				"icon": "",
+				"renderAs": "",
+				"theme": ""
+			}
+		}
+	}
+}

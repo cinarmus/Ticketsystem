@@ -1,0 +1,21 @@
+{
+	"renderAs": {
+		"detail": {
+			"disabled": true,
+			"readonly": true
+		},
+		"edit": {
+			"disabled": false,
+			"readonly": true
+		},
+		"list": {
+			"disabled": false,
+			"readonly": true
+		},
+		"new": {
+			"disabled": false,
+			"display": false,
+			"readonly": true
+		}
+	}
+}

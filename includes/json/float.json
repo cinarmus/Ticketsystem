@@ -1,0 +1,29 @@
+{
+	"validation": "float",
+	"renderAs": {
+		"detail": {
+			"disabled": true,
+			"readonly": true,
+			"control": "text",
+			"class": "sysfloat"
+		},
+		"edit": {
+			"disabled": false,
+			"readonly": false,
+			"control": "textbox",
+			"class": "sysfloat"
+		},
+		"list": {
+			"disabled": false,
+			"readonly": true,
+			"control": "text",
+			"class": "sysfloat"
+		},
+		"new": {
+			"disabled": false,
+			"readonly": false,
+			"control": "textbox",
+			"class": "sysfloat"
+		}
+	}
+}

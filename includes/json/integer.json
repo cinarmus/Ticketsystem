@@ -1,0 +1,30 @@
+{
+	"textformat": "9999",
+	"renderAs": {
+		"detail": {
+			"disabled": true,
+			"readonly": true,
+			"control": "text",
+			"class": "sysinteger"
+		},
+		"edit": {
+			"disabled": false,
+			"readonly": false,
+			"control": "textbox",
+			"class": "sysinteger"
+		},
+		"list": {
+			"disabled": false,
+			"readonly": true,
+			"control": "text",
+			"class": "sysinteger"
+		},
+		"new": {
+			"disabled": false,
+			"readonly": false,
+			"control": "textbox",
+			"class": "sysinteger"
+		}
+	},
+	"validation": "integer"
+}
