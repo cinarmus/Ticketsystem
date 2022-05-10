@@ -40,3 +40,45 @@ if(isset($menuItems)){
 ?>
 </ol>
 </div>
+
+<?php
+$user = new user(); // Für Rendering der Elemente 
+?>
+<div class="login">
+<label class="loginlabel">Login</label>
+<form class="Nutzerdaten" method="post" action="?task=home" data-ajax="false" data-role="none">
+  <input type="text" id="username" name="username" placeholder="Benutzername">
+  <input type="password" id="password" name="password" placeholder="Passwort">
+  <button class="button1" type="submit" name="login" id="login" value="1">Login</button>
+</form>
+
+<style>
+    .loginlabel{
+        text-align: center;
+        font-family: fantasy;
+        color: #495c94;
+        font-size: x-large;
+    }
+    .input{
+        display:inline-block;
+        width: 100%;
+        
+    }
+    .login{
+        width:20%;
+        margin-left: 40%;
+        margin-right: 40%;
+        display:inline-block;
+    }
+    /* funktioniert nicht, genau wie font size & top margin
+    .button1{
+        background-color: #495c94;
+    }*/
+    
+    .button1{
+        margin-bottom: 4%;
+        width:25%;
+        border-radius: 50px;
+    }
+</style>
+</div>

@@ -670,11 +670,11 @@
 			"group": {
 				"general": {
 					"columns": "2",
-					"heading": "Wingmazon Labortermin 1",
-					"text": "Verwalten von Büchern",
-					"image": "wingmazon.jpg",
+					"heading": "Ticketmanagement-System der HS Pforzheim",
+					"text": "Herzlich Willkommen! Bitte melden Sie sich an, um fotzufahren!",
+					"image": "header-midnightBlue.jpg",
 					"display": "true",
-					"label": "Home",
+					"label": "Startseite",
 					"link": "home",
 					"linkFunction": "task",
 					"icon": "home",
