@@ -19,7 +19,7 @@ require("models/model.GruppeT.php");
 require("models/model.AbteilungT.php");
 require("models/model.StatusT.php");
 require("models/model.KategorieT.php");
-require("models/model.Priorit√§tT.php");
+require("models/model.Priorit‰tT.php");
 require("models/model.Ticket_HSMitarbeiter.php");
 require("models/model.User.php");
 require("models/model.Favoriten.php");
