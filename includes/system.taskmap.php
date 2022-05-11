@@ -63,4 +63,5 @@ Core::setTaskMap(array(
 'ticketmanagement'=>'controller.ticketmanagement.php',
 'ticket_erstellen'=>'controller.ticket_erstellen.php',
 'ticketverwaltung'=>'controller.ticketverwaltung.php',
+'homeloggedin'=>'',
 ));
