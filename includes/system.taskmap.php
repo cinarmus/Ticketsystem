@@ -61,7 +61,7 @@ Core::setTaskMap(array(
 'speicherstand_edit'=>'controller.speicherstand_edit.php',
 'speicherstand_upload'=>'controller.speicherstand_upload.php',
 'ticketmanagement'=>'controller.ticketmanagement.php',
-'ticket_erstellen'=>'controller.ticket_erstellen.php',
+'ticket_erstellen'=>'',
 'ticketverwaltung'=>'controller.ticketverwaltung.php',
 'homeloggedin'=>'',
 ));

@@ -6,9 +6,9 @@
             <file>file:/C:/xampp/htdocs/Ticketsystem/views/view.homeloggedin.php</file>
             <file>file:/C:/xampp/htdocs/Ticketsystem/includes/config.php</file>
             <file>file:/C:/xampp/htdocs/Ticketsystem/includes/system.taskmap.php</file>
+            <file>file:/C:/xampp/htdocs/Ticketsystem/views/view.ticket_erstellen.php</file>
             <file>file:/C:/xampp/htdocs/Ticketsystem/views/view.home.php</file>
             <file>file:/C:/xampp/htdocs/Ticketsystem/index.php</file>
-            <file>file:/C:/xampp/htdocs/Ticketsystem/controller/controller.homeloggedin.php</file>
         </group>
     </open-files>
 </project-private>
