@@ -14,7 +14,7 @@
     <input form="titel" name="Titel" placeholder="Bitte einen Titel eingeben!"></input>
     <br>
         
-    <label for="date">Bitte eine Kategorie auswählen</label>
+    <label for="category">Bitte eine Kategorie auswählen</label>
         <input list="category" id="categoryy" name="category" placeholder='Kategorie auswählen...' />
         <datalist id="category">
             <option value="Gebäudemangel">
